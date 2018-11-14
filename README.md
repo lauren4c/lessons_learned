@@ -1,4 +1,4 @@
-####Things I have leanred at Bloc.io
+####Things I have learned at Bloc.io
 
 1. Command Line/Terminal
 2. Git/Git Hub
